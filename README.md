@@ -68,6 +68,13 @@ Or if using pip:
 ```bash
 python main.py
 ```
+On Mac you might need to use Python3
+```bash
+uv run python3 main.py
+```
+```bash
+python3 main.py
+```
 
 ## Controls
 
