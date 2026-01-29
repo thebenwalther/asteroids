@@ -10,6 +10,10 @@ A classic Asteroids arcade game clone built with Python and Pygame.
 
 This project is a recreation of the classic 1979 Atari Asteroids arcade game. Built as part of the [Boot.dev](https://boot.dev) "Build Asteroids using Python and Pygame" course, it demonstrates core game development concepts including object-oriented programming, collision detection, and game loop architecture.
 
+![App screenshot](assets/asteroid1.png)
+![App screenshot](assets/asteroid2.png)
+![App screenshot](assets/asteroid3.png)
+
 ## Features
 
 - Player-controlled spaceship with rotation and thrust mechanics
