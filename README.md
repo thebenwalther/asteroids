@@ -85,6 +85,7 @@ python3 main.py
 | Key | Action |
 |-----|--------|
 | `W` | Thrust forward |
+| `S` | Thrust backward |
 | `A` | Rotate left |
 | `D` | Rotate right |
 | `Space` | Shoot |
