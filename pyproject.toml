@@ -1,7 +1,7 @@
 [project]
 name = "asteroids"
 version = "0.1.0"
-description = "Add your description here"
+description = "This project is a recreation of the classic 1979 Atari Asteroids arcade game. Built as part of the Boot.dev "Build Asteroids using Python and Pygame" course, it demonstrates core game development concepts including object-oriented programming, collision detection, and game loop architecture."
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
