@@ -60,3 +60,7 @@ asteroids/
 
 - [Python](https://www.python.org/) 3.13
 - [pygame](https://www.pygame.org/) 2.6
+
+## About
+
+This project was built as part of a guided course on [Boot.dev](https://www.boot.dev) — a platform for learning backend development through hands-on projects. The course uses this game to teach core Python concepts including object-oriented programming, inheritance, and working with external libraries.
